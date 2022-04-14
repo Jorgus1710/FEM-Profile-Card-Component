@@ -17,8 +17,8 @@ main {
     /* position: relative; */
 
     background-image: 
-        url("../images/bg-pattern-top.svg"), 
-        url("../images/bg-pattern-bottom.svg");
+        url("images/bg-pattern-top.svg"), 
+        url("images/bg-pattern-bottom.svg");
     background-position: 
         top -600px right 155px, 
         bottom -340px right -550px;
@@ -145,8 +145,8 @@ img {
 
 main {
     background-image: 
-        url("../images/bg-pattern-top.svg"), 
-        url("../images/bg-pattern-bottom.svg");
+        url("images/bg-pattern-top.svg"), 
+        url("images/bg-pattern-bottom.svg");
     background-position: 
         top -380px left -80px,
         bottom -800px right -250px;
