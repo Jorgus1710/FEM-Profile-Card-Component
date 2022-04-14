@@ -20,11 +20,11 @@ main {
         url("images/bg-pattern-top.svg"), 
         url("images/bg-pattern-bottom.svg");
     background-position: 
-        top -600px right 155px, 
-        bottom -340px right -550px;
+        top -34em right 9em, 
+        bottom -20em right -28em;
     
     background-repeat: no-repeat;
-    background-size: 1000px, 700px;
+    background-size: 57em, 38.8em;
     
 }
 
@@ -148,10 +148,10 @@ main {
         url("images/bg-pattern-top.svg"), 
         url("images/bg-pattern-bottom.svg");
     background-position: 
-        top -380px left -80px,
-        bottom -800px right -250px;
+        top -23em left -3.1em,
+        bottom -42em right -14em;
     background-repeat: no-repeat;
-    background-size: 1000px, 1300px;
+    background-size: 55.5em, 71em;
 
 }
 
